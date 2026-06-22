@@ -1,0 +1,16 @@
+.document-upload {
+  border: 2px dashed #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  transition: border-color 0.3s ease;
+}
+
+.document-upload:hover {
+  border-color: #007bff;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
